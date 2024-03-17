@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\kulik\\onedrive\\documents\\unrecrod_huyna\\intermediate\\build\\win64\\unrealeditor\\inc\\unrecrod_huyna\\uht\\unrecrod_huynaprojectile.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\kulik\\onedrive\\documents\\unrecrod_huyna\\intermediate\\build\\win64\\x64\\unrecrod_huynaeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\kulik\\onedrive\\documents\\unrecrod_huyna\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrecrod_huyna\\definitions.unrecrod_huyna.h",
+            "c:\\users\\kulik\\onedrive\\documents\\unrecrod_huyna\\source\\unrecrod_huyna\\unrecrod_huynaprojectile.h",
+            "c:\\users\\kulik\\onedrive\\documents\\unrecrod_huyna\\intermediate\\build\\win64\\unrealeditor\\inc\\unrecrod_huyna\\uht\\unrecrod_huynaprojectile.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
