@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\unrecrod_huyna.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\unrecrod_huyna.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\unrecrod_huynaEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\unrecrod_huyna">
+      <UniqueIdentifier>{D842FFCD-FC99-38AC-9760-82DCAD104336}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\unrecrod_huyna\TP_PickUpComponent.cpp">
+      <Filter>Source\unrecrod_huyna</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\unrecrod_huyna\TP_PickUpComponent.h">
+      <Filter>Source\unrecrod_huyna</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\unrecrod_huyna\TP_WeaponComponent.cpp">
+      <Filter>Source\unrecrod_huyna</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\unrecrod_huyna\TP_WeaponComponent.h">
+      <Filter>Source\unrecrod_huyna</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\unrecrod_huyna\unrecrod_huyna.Build.cs">
+      <Filter>Source\unrecrod_huyna</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\unrecrod_huyna\unrecrod_huyna.cpp">
+      <Filter>Source\unrecrod_huyna</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\unrecrod_huyna\unrecrod_huyna.h">
+      <Filter>Source\unrecrod_huyna</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\unrecrod_huyna\unrecrod_huynaCharacter.cpp">
+      <Filter>Source\unrecrod_huyna</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\unrecrod_huyna\unrecrod_huynaCharacter.h">
+      <Filter>Source\unrecrod_huyna</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\unrecrod_huyna\unrecrod_huynaGameMode.cpp">
+      <Filter>Source\unrecrod_huyna</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\unrecrod_huyna\unrecrod_huynaGameMode.h">
+      <Filter>Source\unrecrod_huyna</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\unrecrod_huyna\unrecrod_huynaPlayerController.cpp">
+      <Filter>Source\unrecrod_huyna</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\unrecrod_huyna\unrecrod_huynaPlayerController.h">
+      <Filter>Source\unrecrod_huyna</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\unrecrod_huyna\unrecrod_huynaProjectile.cpp">
+      <Filter>Source\unrecrod_huyna</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\unrecrod_huyna\unrecrod_huynaProjectile.h">
+      <Filter>Source\unrecrod_huyna</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
